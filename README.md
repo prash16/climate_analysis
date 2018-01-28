@@ -1,4 +1,4 @@
-# climate_analysis
+# Climate Analysis 
 
 
 This data was constructed using LLNL's UQ Pipeline, was created under the auspices of the US Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344, was funded by LLNL's Uncertainty Quantification Strategic Initiative Laboratory Directed Research and Development Project under tracking code 10-SI-013, and is released under UCRL number LLNL-MISC-633994.
@@ -15,3 +15,19 @@ Three separate Latin hypercube ensembles were conducted, each containing 180 ens
 The goal is to use classification to predict simulation outcomes (fail or succeed) from input parameter values, and to use sensitivity analysis and feature selection to determine the causes of simulation crashes. 
 
 [UCI Data Source](https://archive.ics.uci.edu/ml/datasets/climate+model+simulation+crashes)
+
+Dependencies: - 
+
+sklearn
+pandas
+numpy
+matplotlib
+
+
+####Links 
+
+[python notebook](analysis.ipynb) 
+
+[report](..doc/report.md) 
+
+
