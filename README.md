@@ -4,6 +4,7 @@
 This data was constructed using LLNL's UQ Pipeline, was created under the auspices of the US Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344, was funded by LLNL's Uncertainty Quantification Strategic Initiative Laboratory Directed Research and Development Project under tracking code 10-SI-013, and is released under UCRL number LLNL-MISC-633994.
 
 
+
 Data Set Information:
 
 This dataset contains records of simulation crashes encountered during climate model uncertainty quantification (UQ) ensembles. 
@@ -24,10 +25,23 @@ numpy
 matplotlib
 
 
-####Links 
+Instructions : 
 
-[python notebook](analysis.ipynb) 
+To run analysis  : 
 
-[report](..doc/report.md) 
+Step1 : Download the  data using this script : [script](doc/download.ipynb)
+
+Step 2 : Run descriptive stats using script :[descriptive](descriptive.ipynb)
+
+Step 3 : Visualization : [viz](visualization.ipynb)
+
+Step 4 : Run analysis  : [Feature and model selection](analysis.ipynb)
+
+Step 5 : Analysis Report :[report](doc/report.md) 
+
+
+
+
+
 
 
