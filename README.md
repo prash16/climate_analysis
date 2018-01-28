@@ -29,7 +29,9 @@ Instructions :
 
 To run analysis  : 
 
-Step1 : Download the  data using this script : [script](doc/download.ipynb)
+MD File](./result/lab2.md) 
+
+Step1 : Download the  data using this script : [script](./src/download.ipynb)
 
 Step 2 : Run descriptive stats using script :[descriptive](descriptive.ipynb)
 
@@ -37,7 +39,8 @@ Step 3 : Visualization : [viz](visualization.ipynb)
 
 Step 4 : Run analysis  : [Feature and model selection](analysis.ipynb)
 
-Step 5 : Analysis Report :[report](doc/report.md) 
+Step 5 : Analysis Report :[Analysis-pdf](./reports/re.pdf)  and [Analysis-md file ](./reports/report.md) 
+
 
 
 
