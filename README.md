@@ -29,7 +29,7 @@ Instructions :
 
 To run analysis  : 
 
-MD File](./result/lab2.md) 
+Be in the home directory and run below scripts. 
 
 Step1 : Download the  data using this script : [script](./src/download.ipynb)
 
@@ -42,7 +42,11 @@ Step 4 : Run analysis  : [Feature and model selection](analysis.ipynb)
 Step 5 : Analysis Report :[Analysis-pdf](./reports/re.pdf)  and [Analysis-md file ](./reports/report.md) 
 
 
+Thank you for your patience !!!!
 
+ 
+
+![](random.jpg)
 
 
 
